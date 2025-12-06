@@ -8,8 +8,11 @@
 ### 🧐 Sobre mí
 Soy estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma**. Me encanta la lógica detrás del software y ver cómo mis líneas de código cobran vida en dispositivos móviles y de escritorio.
 
+
 🔭 **Actualmente:** Trabajando en mi Proyecto Final de Grado.
+
 🌱 **Aprendiendo:** Spring Boot, React .
+
 🎯 **Objetivo:** Busco mi primera oportunidad laboral como **Junior Developer** para incorporarme al equipo una vez finalice mi periodo de prácticas..
 
 ---
