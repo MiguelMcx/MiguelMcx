@@ -6,10 +6,10 @@
 ---
 
 ### 🧐 Sobre mí
-Soy estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma**. Me encanta la lógica detrás del software y ver cómo mis líneas de código cobran vida en dispositivos móviles y de escritorio.
+Soy un recien graduado en desarrollo de aplicaciones multiplataforma (DAM). Me encanta la lógica detrás del software y ver cómo mis líneas de código cobran vida en dispositivos móviles y de escritorio.
 
 
-🔭 **Actualmente:** Trabajando en mi Proyecto Final de Grado.
+🔭 **Actualmente:** Trabajando en Point Counter aplicación libre para el recuento de puntos en deportes de raqueta.
 
 🌱 **Aprendiendo:** Spring Boot, React .
 
