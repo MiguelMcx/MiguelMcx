@@ -13,7 +13,7 @@ Soy un recien graduado en desarrollo de aplicaciones multiplataforma (DAM). Me e
 
 🌱 **Aprendiendo:** Spring Boot, React .
 
-🎯 **Objetivo:** Busco mi primera oportunidad laboral como **Junior Developer** para incorporarme al equipo una vez finalice mi periodo de prácticas..
+🎯 **Objetivo:** Busco mi primera oportunidad laboral como **Junior Developer** , ademas de busquedas de proyectos interesantes en los que poder ayudar
 
 ---
 
