@@ -49,6 +49,14 @@ App móvil con Expo y React Native, con landing propia y Supabase, desarrollada 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
+### 🥪 Illo Un Campero · TFG (Web + API + App Android)
+Sistema completo de pedidos online para un negocio de camperos, desarrollado como Trabajo de Fin de Grado en DAM junto a dos compañeros.
+
+- 🌐 [**Web**](https://github.com/MiguelMcx/Illo-UnCamperoWeb) · Angular 20, Supabase Auth, Stripe · [demo en vivo](https://illouncampero.vercel.app)
+- ⚙️ [**API**](https://github.com/MiguelMcx/Illo-UnCamperoBackend) · Spring Boot 3.4, Java 21, PostgreSQL, Stripe, notificaciones push
+- 📱 [**App Android**](https://github.com/MiguelMcx/Illo-UnCamperoMovil) · Kotlin, Jetpack Compose, seguimiento de pedidos en tiempo real
+- 🎞️ [**Presentación**](https://github.com/MiguelMcx/illouncampero_Presentacion)
+
 ---
 
 ## Stack
