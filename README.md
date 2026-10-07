@@ -2,7 +2,7 @@
 
 # Hola, soy Miguel 👋
 
-**Desarrollador de aplicaciones multiplataforma (DAM)** · Android / Kotlin · TypeScript
+**Desarrollador de aplicaciones multiplataforma (DAM)** · Android / Kotlin · TypeScript · IA y Big Data
 
 📍 España · 🔎 Buscando mi primera oportunidad como **Junior Developer**
 
@@ -12,10 +12,10 @@
 
 ## Sobre mí
 
-Me encanta la lógica detrás del software y ver cómo mis líneas de código cobran vida en dispositivos móviles y de escritorio. Termino de formarme en DAM y ya construyo proyectos completos: de una app para Wear OS con CI y tests a una API con base de datos en la nube.
+Me encanta la lógica detrás del software y ver cómo mis líneas de código cobran vida en dispositivos móviles y de escritorio. Me he formado en DAM, ahora curso una especialización en **Inteligencia Artificial y Big Data**, y ya construyo proyectos completos: de una app para Wear OS con CI y tests a una API con base de datos en la nube.
 
 - 🔭 **Ahora:** mejorando [Point Counter](https://github.com/MiguelMcx/PointCounter), un marcador libre para deportes de raqueta
-- 🌱 **Aprendiendo:** Spring Boot y React
+- 🌱 **Aprendiendo:** Inteligencia Artificial y Big Data (especialización), Spring Boot y React
 - 🎯 **Objetivo:** primer puesto como Junior Developer y proyectos interesantes en los que poder ayudar
 
 ## Proyectos destacados
