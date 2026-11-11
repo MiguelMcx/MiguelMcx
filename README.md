@@ -33,16 +33,6 @@ Marcador de pádel y tenis para el reloj: puntos, juegos, sets, tie-break y punt
 
 <img src="https://raw.githubusercontent.com/MiguelMcx/PointCounter/HEAD/docs/capturas/03-marcador.png" alt="Marcador de Point Counter" width="220">
 
-### 🎓 [FPTrack](https://github.com/MiguelMcx/FPTrack) · API REST
-
-Aplicación web para planificar y seguir las prácticas de FP/DAM: empresas, alumnos, prácticas, registro de horas e informes de progreso.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
 ### 📱 [Pateo](https://github.com/FlexRival/pateo) · App móvil
 
 App móvil con Expo y React Native, con landing propia y Supabase, desarrollada dentro de la organización FlexRival.
